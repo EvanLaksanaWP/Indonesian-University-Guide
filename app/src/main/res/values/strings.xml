@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Indonesian University Guide</string>
+    <string name="preview">preview</string>
+    <string name="title">Title</string>
+    <string name="profile">Profile</string>
+    <string name="my_name">Evan Laksana Wira Pratama</string>
+    <string name="my_email">evanlwp123@gmail.com</string>
+    <string name="akreditasi_value">A</string>
+    <string name="profil_kampus">Profil Kampus:</string>
+    <string name="sejarah_kampus">Sejarah Kampus:</string>
+    <string name="register_now">Register Now</string>
+    <string name="share">Share</string>
+    <string name="akreditasi">Akreditasi:</string>
+    <string name="tipe">Tipe:</string>
+    <string name="status">Status:</string>
+</resources>
